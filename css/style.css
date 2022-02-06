@@ -1,0 +1,11 @@
+body {
+  background-color: #ffeead;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: #d9534f;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
