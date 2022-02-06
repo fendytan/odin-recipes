@@ -1,0 +1,41 @@
+[33mcommit 20cf5cc1213f378e5cd0259c201916039b5a1980[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Efendy T <fendytan@gmail.com>
+Date:   Sun Feb 6 20:20:01 2022 +0700
+
+    Fixed the image path again
+
+[33mcommit 0486a111d0a8278304fd4fa2108cc4a614390280[m
+Author: Efendy T <fendytan@gmail.com>
+Date:   Sun Feb 6 20:19:05 2022 +0700
+
+    Fixed the image path
+
+[33mcommit cd2c0aa0fa501d9c822e58222b7571bd97de417c[m
+Author: Efendy T <fendytan@gmail.com>
+Date:   Sun Feb 6 20:10:25 2022 +0700
+
+    added lobster and sweet sour chicken recipe
+
+[33mcommit 9c3e4dc643e965415d63fedde625c3d77ab6cf10[m
+Author: Efendy T <fendytan@gmail.com>
+Date:   Sun Feb 6 20:09:36 2022 +0700
+
+    Added lobster and sweet sour chicken recipes
+
+[33mcommit a1904c46f9ff7e62112b31fe6e756621ce9f811d[m
+Author: Efendy T <fendytan@gmail.com>
+Date:   Sun Feb 6 19:39:07 2022 +0700
+
+    Choco Chip Cookie done
+
+[33mcommit 4faad51a4b2ef9c3af6d53560a5929618d7dd7d5[m
+Author: Efendy T <fendytan@gmail.com>
+Date:   Sun Feb 6 19:27:37 2022 +0700
+
+    Initial Structure and added recipe page choco chip cookies
+
+[33mcommit 5f044c2caa5030a86487cf1b93d834b0fc14f0ea[m
+Author: ET <fendytan@gmail.com>
+Date:   Sun Feb 6 19:19:12 2022 +0700
+
+    Initial commit
